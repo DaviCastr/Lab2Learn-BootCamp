@@ -1,0 +1,1 @@
+![[SAP-BTP-Devs/Cursos/Lab2Learn/Lab2Learn-BootCamp/3 - Materiais de Apoio/Anexos/IS + AI.pdf]]

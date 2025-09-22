@@ -1,0 +1,18 @@
+#mail.password=<< Existing password/certificate removed on export >>
+#
+#Wed Oct 30 20:30:39 UTC 2024
+mail.smtp.ssl.trust=*
+mail.smtp.port=587
+mail.bpm.send.disabled=False
+mail.user=turma.bootcamp.2.2024@lab2learn.com.br
+mail.smtp.from=turma.bootcamp.2.2024@lab2learn.com.br
+mail.smtp.auth=True
+mail.smtp.starttls.enable=True
+mail.smtp.host=mail.lab2learn.com.br
+Name=sap_process_automation_mail
+mail.smtp.ssl.enable=False
+Type=MAIL
+mail.transport.protocol=smtp
+Authentication=BasicAuthentication
+mail.smtp.starttls.required=true
+ProxyType=Internet
